@@ -6,19 +6,17 @@
 
 ## Requirements
 
-1. Team Members: `<Who's working on this app?>`
-2. App Name: `<What's the app name?>`
+1. Team Members: Michael & Corey
+2. App Name: Home Mortgage Calculator
 3. App Description (3-5 sentences):
-
-    `<Explain your app to your Grandma (or a 5-year old child)>`
+Enter basic information about a house purchase and loan info to create a breakdown of the loan for its entire life (monthly payments of principal + interest). Graphs could be shown to visualize the loan details. Perhaps even allow for different loan specs to be compared on a given house purchase to see how they compare.
     
 4. Your #1 Customer (Who would use your app? Why now?)
- 
-    `<Be specific and focus on a real person>`
+Anyone looking to purchase a house.
     
 5. Github code repository: `<Create a Github Project>`
 6. Github Project/Trello Board: `<Post your link to your Kanban board>`
-7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!"
+7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!" √
 
 ## Part 1: Brainstorming
 
