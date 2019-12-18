@@ -17,7 +17,7 @@ Simply speak what you want to type on your device and the app will turn it into 
 Young professionals who want to make text on the go
     
 5. Github code repository: https://github.com/LambdaSchool/ios-pt1-bw4-notes-transcriber-dongwoo-michael
-6. Github Project/Trello Board:  https://trello.com/b/HTnNKfyL/note-transcriber
+6. Github Project/Trello Board:  https://trello.com/b/HTnNKfyL/notes-transcriber
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!" Done
 
 ## Part 1: Brainstorming
