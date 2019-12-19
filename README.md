@@ -7,7 +7,7 @@
 ## Requirements
 
 1. Team Members: Michael Flowers & Dongwoo
-2. App Name: Note Transcriber
+2. App Name: Notes Transcriber
 3. App Description (3-5 sentences):
 
 Simply speak what you want to type on your device and the app will turn it into text. The text can be shared by email and other forms. 
