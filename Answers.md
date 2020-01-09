@@ -14,8 +14,8 @@ Enter basic information about a house purchase and loan info to create a breakdo
 4. Your #1 Customer (Who would use your app? Why now?)
 Anyone looking to purchase a house.
     
-5. Github code repository: `<Create a Github Project>`
-6. Github Project/Trello Board: `<Post your link to your Kanban board>`
+5. Github code repository: `https://github.com/LambdaSchool/ios-pt1-bw4-home-mortgate-calculator-corey-michael`
+6. Github Project/Trello Board: `https://github.com/LambdaSchool/ios-pt1-bw4-home-mortgate-calculator-corey-michael/issues`
 7. Create a Slack DM Group with your partner, TL, and Instructor and say "hi!" √
 
 ## Part 1: Brainstorming
